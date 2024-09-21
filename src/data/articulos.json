@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "BGP. Interconectando redes.",
+        "created": "17/01/2023",
+        "shortDescription": "Córdoba - Bitmode. BGP (Border Gateway Protocol) es el protocolo sobre el que se apoya el sistema de enrutamiento global de Internet. Básicamente administra cómo se enrutan los paquetes de una red a otra a través del intercambio de información de enrutamiento entre enrutadores de borde.",
+        "largeDescription": "Córdoba - Bitmode. BGP (Border Gateway Protocol) es el protocolo sobre el que se apoya el sistema de enrutamiento global de Internet. Básicamente administra cómo se enrutan los paquetes de una red a otra a través del intercambio de información de enrutamiento entre enrutadores de borde.",
+        "image": "pic-blog-001.jpg"
+    },
+    {
+        "id": 2,
+        "title": "QoS: Calidad de servicio -PCQ-.",
+        "created": "17/01/2023",
+        "shortDescription": "Córdoba - Bitmode. La calidad de servicio (quality of service o QoS) se refiere a cualquier tecnología que gestiona el tráfico de datos para reducir la pérdida de paquetes, la latencia y el jitter, o fluctuación, en una red. QoS controla y administra los recursos de la red estableciendo prioridades para tipos específicos de datos en la red.",
+        "largeDescription": "Córdoba - Bitmode. La calidad de servicio (quality of service o QoS) se refiere a cualquier tecnología que gestiona el tráfico de datos para reducir la pérdida de paquetes, la latencia y el jitter, o fluctuación, en una red. QoS controla y administra los recursos de la red estableciendo prioridades para tipos específicos de datos en la red.",
+        "image": "pic08.jpg"
+    },
+    {
+        "id": 3,
+        "title": "¿Qué es el soporte técnico?",
+        "created": "30/01/2023",
+        "shortDescription": "Córdoba - Bitmode. Es el servicio que se ofrece a los usuarios para solucionar los problemas o consultas que puedan tener. Nuestra principal función es encontrar una respuesta para las preguntas del cliente o una solución para sus problemas, además de brindarle la asistencia para restaurar el correcto funcionamiento del servicio. El objetivo es ayudar a nuestros clientes a sacar el máximo provecho y estabilidad a las redes que utilizan para dar servicio.",
+        "largeDescription": "Córdoba - Bitmode. Es el servicio que se ofrece a los usuarios para solucionar los problemas o consultas que puedan tener. Nuestra principal función es encontrar una respuesta para las preguntas del cliente o una solución para sus problemas, además de brindarle la asistencia para restaurar el correcto funcionamiento del servicio. El objetivo es ayudar a nuestros clientes a sacar el máximo provecho y estabilidad a las redes que utilizan para dar servicio.",
+        "image": "pic-blog-003.jpg"
+    },
+    {
+        "id": 4,
+        "title": "¿Cuál es la importancia del soporte técnico?",
+        "created": "30/01/2023",
+        "shortDescription": "Córdoba - Bitmode. Los objetivos del soporte técnico nos llevan a una necesidad que proporciona muchas ventajas para la empresa como por ejemplo: 1) Optimizar y mejorar el rendimiento de productos y servicios ofrecidos; 2) Mantener actualizados el equipamiento para anticipar los problemas que pueden llegar a surgir; 3) Ahorrar tiempo y dinero con la infraestructura adecuada para tu negocio; 4) Crear un plan de acción para el mantenimiento preventivo de las herramientas utilizadas.",
+        "largeDescription": "Córdoba - Bitmode. Los objetivos del soporte técnico nos llevan a una necesidad que proporciona muchas ventajas para la empresa como por ejemplo: 1) Optimizar y mejorar el rendimiento de productos y servicios ofrecidos; 2) Mantener actualizados el equipamiento para anticipar los problemas que pueden llegar a surgir; Ahorrar tiempo y dinero con la infraestructura adecuada para tu negocio; 3) Crear un plan de acción para el mantenimiento preventivo de las herramientas utilizadas.",
+        "image": "pic-blog-004.jpg"
+    },
+    {
+        "id": 5,
+        "title": "¿¿Ventajas de trabajar con Bitmode??",
+        "created": "30/01/2023",
+        "shortDescription": "Córdoba - Bitmode. En Bitmode  damos soporte técnico especializado. Y esto es un factor importante en la satisfacción de nuestros clientes. Estas son tres ventajas de tener agentes expertos al servicio de tu empresa: 1) SOMOS ÁGILES: Disponibles para resolver todos tus problemas de forma ágil. Somos expertos y estamos acostumbrados a identificar fuentes de errores y resolverlos con precisión. 2) ENFOQUES ESTANDARIZADOS: Con una arquitectura simple y homogénea, conocemos a fondo las redes de nuestros clientes y no se pierde tiempo en evaluar alternativas para proceder en arreglos, ya que hemos hecho testeos previos y conocemos el camino a seguir. 3) SOMOS RÁPIDOS:  creamos un canal directo con los operadores locales de la red. Nuestra calidad y agilidad es uno de los caminos para que su empresa se diferencie de la competencia.",
+        "largeDescription": "Córdoba - Bitmode. En Bitmode  damos soporte técnico especializado. Y esto es un factor importante en la satisfacción de nuestros clientes. Estas son tres ventajas de tener agentes expertos al servicio de tu empresa: 1) SOMOS ÁGILES: Disponibles para resolver todos tus problemas de forma ágil. Somos expertos y estamos acostumbrados a identificar fuentes de errores y resolverlos con precisión. 2) ENFOQUES ESTANDARIZADOS: Con una arquitectura simple y homogénea, conocemos a fondo las redes de nuestros clientes y no se pierde tiempo en evaluar alternativas para proceder en arreglos, ya que hemos hecho testeos previos y conocemos el camino a seguir. 3) SOMOS RÁPIDOS:  creamos un canal directo con los operadores locales de la red. Nuestra calidad y agilidad es uno de los caminos para que su empresa se diferencie de la competencia.",
+        "image": "pic-blog-005.jpg"
+    }
+]
