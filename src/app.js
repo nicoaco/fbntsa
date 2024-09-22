@@ -23,8 +23,8 @@ app.use(function(request, response, next) {
 
 app.listen(80, () => console.log('server running on port 80'));
 https.createServer({
-    cert: fs.readFileSync('/etc/letsencrypt/live/bitmode.ar/fullchain.pem'                                                                                                                                                             ),
-    key: fs.readFileSync('/etc/letsencrypt/live/bitmode.ar/privkey.pem')
+    cert: fs.readFileSync('/etc/letsencrypt/live/fibranetsa.com.ar/fullchain.pem'                                                                                                                                                             ),
+    key: fs.readFileSync('/etc/letsencrypt/live/fibranetsa.com.ar/privkey.pem')
   },app).listen(443, function(){
      console.log('Servidor https correindo en el puerto 443');
  });
