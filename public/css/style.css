@@ -53,7 +53,7 @@ body {
   height: 7px;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  background-color: #a224cb;
+  background-color: #780d9b;
   border-radius: 15px;
 }
 
@@ -124,7 +124,7 @@ body {
   height: 4px;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  background-color: #a224cb;
+  background-color: #780d9b;
   border-radius: 5px;
 }
 
@@ -218,7 +218,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 span {
-  color: #a224cb;
+  color: #780d9b;
 }
 
 .slider_section .slider_nav-box {
@@ -340,11 +340,11 @@ a:focus {
 }
 
 .service_section .detail-box .btn-box a {
-  color: #a224cb;
+  color: #780d9b;
 }
 
 .service_section .detail-box .btn-box hr {
-  background-color: #a224cb;
+  background-color: #780d9b;
 }
 
 .service_section::before {
@@ -361,7 +361,7 @@ a:focus {
 }
 
 .work_section {
-  background-color: #a224cb;
+  background-color: #780d9b;
 }
 
 .work_section .custom_heading-container h3 {
@@ -527,17 +527,17 @@ a:focus {
 }
 
 .contact_section button {
-  background-color: #a224cb;
+  background-color: #780d9b;
   padding: 12px 55px;
   outline: none;
   border: none;
-  border: 1px solid #a224cb;
+  border: 1px solid #780d9b;
   color: #fff;
   margin-top: 25px;
 }
 
 .contact_section button:hover {
-  color: #a224cb;
+  color: #780d9b;
   background-color: transparent;
 }
 
@@ -587,11 +587,11 @@ a:focus {
 }
 
 .client_section .client_container .client_id .name h6 {
-  color: #a224cb;
+  color: #780d9b;
 }
 
 .info_section {
-  background-color: #a224cb;
+  background-color: #780d9b;
   color: #ffffff;
 }
 
